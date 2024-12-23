@@ -1,4 +1,11 @@
 
+**NAVANTHAKRISHNAN.K**  
+**Company**: CODETECH IT SOLUTIONS  
+**Id**:CT08DS91  
+**Domain**: JAVA PROGRAMMING 
+**Duration**: NOV 30th 2024 to DEC 30th, 2024
+
+
 # Simple Calculator in Java
 
 This Java program implements a basic calculator that can perform addition, subtraction, multiplication, and division. The user is prompted to input two numbers and select an operator. The program then computes and displays the result based on the chosen operator.
